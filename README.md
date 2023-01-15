@@ -12,7 +12,7 @@ This site was created using the [gatsby-starter-default](https://www.gatsbyjs.co
 
 ## Access
 
-The site can be accessed [here](https://pokemon_guessermain.gtsb.io/).
+The site can be accessed [here](https://pokemonguessermain.gatsbyjs.io/).
 
 ## Running locally
 

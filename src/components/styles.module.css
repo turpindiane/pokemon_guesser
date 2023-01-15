@@ -17,6 +17,19 @@
   text-align: center;
   font-size:calc(20px + 1.2vw);
 }
+.reset-button {
+    background-color: white;
+    border: 2px solid;
+    border-radius: 15px;
+    color: #3B3B3B;
+    cursor: pointer;
+    display: inline-block;
+    line-height: normal;
+    min-height: 80px;
+    padding: 16px 24px;
+    text-align: center;
+    font-size:calc(5px + 1.2vw);
+  }
 .button-selected {
     color: #fff;
     cursor: pointer;

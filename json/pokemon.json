@@ -108,5 +108,650 @@
         "display" : "Fearow", 
         "name" : "fearow", 
         "number" : "022"
+    },
+    {
+        "display" : "Ekans", 
+        "name" : "ekans", 
+        "number" : "023"
+    },
+    {
+        "display" : "Arbok", 
+        "name" : "arbok", 
+        "number" : "024"
+    },
+    {
+        "display" : "Pikachu", 
+        "name" : "pikachu", 
+        "number" : "025"
+    },
+    {
+        "display" : "Raichu", 
+        "name" : "raichu", 
+        "number" : "026"
+    },
+    {
+        "display" : "Sandshrew", 
+        "name" : "sandshrew", 
+        "number" : "027"
+    },
+    {
+        "display" : "Sandslash", 
+        "name" : "sandslash", 
+        "number" : "028"
+    },
+    {
+        "display" : "Nidoran", 
+        "name" : "nidoran", 
+        "number" : "029"
+    },
+    {
+        "display" : "Nidorina", 
+        "name" : "nidorina", 
+        "number" : "030"
+    },
+    {
+        "display" : "Nidoqueen", 
+        "name" : "nidoqueen", 
+        "number" : "031"
+    },
+    {
+        "display" : "Nidoran", 
+        "name" : "nidoran", 
+        "number" : "032"
+    },
+    {
+        "display" : "Nidorino", 
+        "name" : "nidorino", 
+        "number" : "033"
+    },
+    {
+        "display" : "Nidoking", 
+        "name" : "nidoking", 
+        "number" : "034"
+    },
+    {
+        "display" : "Clefairy", 
+        "name" : "clefairy", 
+        "number" : "035"
+    },
+    {
+        "display" : "Clefable", 
+        "name" : "clefable", 
+        "number" : "036"
+    },
+    {
+        "display" : "Vulpix", 
+        "name" : "vulpix", 
+        "number" : "037"
+    },
+    {
+        "display" : "Ninetales", 
+        "name" : "ninetales", 
+        "number" : "038"
+    },
+    {
+        "display" : "Jigglypuff", 
+        "name" : "jigglypuff", 
+        "number" : "039"
+    },
+    {
+        "display" : "Wigglytuff", 
+        "name" : "wigglytuff", 
+        "number" : "040"
+    },
+    {
+        "display" : "Zubat", 
+        "name" : "zubat", 
+        "number" : "041"
+    },
+    {
+        "display" : "Golbat", 
+        "name" : "golbat", 
+        "number" : "042"
+    },
+    {
+        "display" : "Oddish", 
+        "name" : "oddish", 
+        "number" : "043"
+    },
+    {
+        "display" : "Gloom", 
+        "name" : "gloom", 
+        "number" : "044"
+    },
+    {
+        "display" : "Vileplume", 
+        "name" : "vileplume", 
+        "number" : "045"
+    },
+    {
+        "display" : "Paras", 
+        "name" : "paras", 
+        "number" : "046"
+    },
+    {
+        "display" : "Parasect", 
+        "name" : "parasect", 
+        "number" : "047"
+    },
+    {
+        "display" : "Venonat", 
+        "name" : "venonat", 
+        "number" : "048"
+    },
+    {
+        "display" : "Venomoth", 
+        "name" : "venomoth", 
+        "number" : "049"
+    },
+    {
+        "display" : "Diglett", 
+        "name" : "diglett", 
+        "number" : "050"
+    },
+    {
+        "display" : "Dugtrio", 
+        "name" : "dugtrio", 
+        "number" : "051"
+    },
+    {
+        "display" : "Meowth", 
+        "name" : "meowth", 
+        "number" : "052"
+    },
+    {
+        "display" : "Persian", 
+        "name" : "persian", 
+        "number" : "053"
+    },
+    {
+        "display" : "Psyduck", 
+        "name" : "psyduck", 
+        "number" : "054"
+    },
+    {
+        "display" : "Golduck", 
+        "name" : "golduck", 
+        "number" : "055"
+    },
+    {
+        "display" : "Mankey", 
+        "name" : "mankey", 
+        "number" : "056"
+    },
+    {
+        "display" : "Primeape", 
+        "name" : "primeape", 
+        "number" : "057"
+    },
+    {
+        "display" : "Growlithe", 
+        "name" : "growlithe", 
+        "number" : "058"
+    },
+    {
+        "display" : "Arcanine", 
+        "name" : "arcanine", 
+        "number" : "059"
+    },
+    {
+        "display" : "Poliwag", 
+        "name" : "poliwag", 
+        "number" : "060"
+    },
+    {
+        "display" : "Poliwhirl", 
+        "name" : "poliwhirl", 
+        "number" : "061"
+    },
+    {
+        "display" : "Poliwrath", 
+        "name" : "poliwrath", 
+        "number" : "062"
+    },
+    {
+        "display" : "Abra", 
+        "name" : "abra", 
+        "number" : "063"
+    },
+    {
+        "display" : "Kadabra", 
+        "name" : "kadabra", 
+        "number" : "064"
+    },
+    {
+        "display" : "Alakazam", 
+        "name" : "alakazam", 
+        "number" : "065"
+    },
+    {
+        "display" : "Machop", 
+        "name" : "machop", 
+        "number" : "066"
+    },
+    {
+        "display" : "Machoke", 
+        "name" : "machoke", 
+        "number" : "067"
+    },
+    {
+        "display" : "Machamp", 
+        "name" : "machamp", 
+        "number" : "068"
+    },
+    {
+        "display" : "Bellsprout", 
+        "name" : "bellsprout", 
+        "number" : "069"
+    },
+    {
+        "display" : "Weepinbell", 
+        "name" : "weepinbell", 
+        "number" : "070"
+    },
+    {
+        "display" : "Victreebel", 
+        "name" : "victreebel", 
+        "number" : "071"
+    },
+    {
+        "display" : "Tentacool", 
+        "name" : "tentacool", 
+        "number" : "072"
+    },
+    {
+        "display" : "Tentacruel", 
+        "name" : "tentacruel", 
+        "number" : "073"
+    },
+    {
+        "display" : "Geodude", 
+        "name" : "geodude", 
+        "number" : "074"
+    },
+    {
+        "display" : "Graveler", 
+        "name" : "graveler", 
+        "number" : "075"
+    },
+    {
+        "display" : "Golem", 
+        "name" : "golem", 
+        "number" : "076"
+    },
+    {
+        "display" : "Ponyta", 
+        "name" : "ponyta", 
+        "number" : "077"
+    },
+    {
+        "display" : "Rapidash", 
+        "name" : "papidash", 
+        "number" : "078"
+    },
+    {
+        "display" : "Slowpoke", 
+        "name" : "slowpoke", 
+        "number" : "079"
+    },
+    {
+        "display" : "Slowbro", 
+        "name" : "slowbro", 
+        "number" : "080"
+    },
+    {
+        "display" : "Magnemite", 
+        "name" : "magnemite", 
+        "number" : "081"
+    },
+    {
+        "display" : "Magneton", 
+        "name" : "magneton", 
+        "number" : "082"
+    },
+    {
+        "display" : "Farfetch'd", 
+        "name" : "farfetchd", 
+        "number" : "083"
+    },
+    {
+        "display" : "Doduo", 
+        "name" : "doduo", 
+        "number" : "084"
+    },
+    {
+        "display" : "Dodrio", 
+        "name" : "dodrio", 
+        "number" : "085"
+    },
+    {
+        "display" : "Seel", 
+        "name" : "seel", 
+        "number" : "086"
+    },
+    {
+        "display" : "Dewgong", 
+        "name" : "dewgong", 
+        "number" : "087"
+    },
+    {
+        "display" : "Grimer", 
+        "name" : "grimer", 
+        "number" : "088"
+    },
+    {
+        "display" : "Muk", 
+        "name" : "muk", 
+        "number" : "089"
+    },
+    {
+        "display" : "Shellder", 
+        "name" : "shellder", 
+        "number" : "090"
+    },
+    {
+        "display" : "Cloyster", 
+        "name" : "cloyster", 
+        "number" : "091"
+    },
+    {
+        "display" : "Gastly", 
+        "name" : "gastly", 
+        "number" : "092"
+    },
+    {
+        "display" : "Haunter", 
+        "name" : "haunter", 
+        "number" : "093"
+    },
+    {
+        "display" : "Gengar", 
+        "name" : "gengar", 
+        "number" : "094"
+    },
+    {
+        "display" : "Onix", 
+        "name" : "onix", 
+        "number" : "095"
+    },
+    {
+        "display" : "Drowzee", 
+        "name" : "drowzee", 
+        "number" : "096"
+    },
+    {
+        "display" : "Hypno", 
+        "name" : "hypno", 
+        "number" : "097"
+    },
+    {
+        "display" : "Krabby", 
+        "name" : "krabby", 
+        "number" : "098"
+    },
+    {
+        "display" : "Kingler", 
+        "name" : "kingler", 
+        "number" : "099"
+    },
+    {
+        "display" : "Voltorb", 
+        "name" : "voltorb", 
+        "number" : "100"
+    },
+    {
+        "display" : "Electrode", 
+        "name" : "electrode", 
+        "number" : "101"
+    },
+    {
+        "display" : "Exeggcute", 
+        "name" : "exeggcute", 
+        "number" : "102"
+    },
+    {
+        "display" : "Exeggutor", 
+        "name" : "exeggutor", 
+        "number" : "103"
+    },
+    {
+        "display" : "Cubone", 
+        "name" : "cubone", 
+        "number" : "104"
+    },
+    {
+        "display" : "Marowak", 
+        "name" : "marowak", 
+        "number" : "105"
+    },
+    {
+        "display" : "Hitmonlee", 
+        "name" : "hitmonlee", 
+        "number" : "106"
+    },
+    {
+        "display" : "Hitmonchan", 
+        "name" : "hitmonchan", 
+        "number" : "107"
+    },
+    {
+        "display" : "Lickitung", 
+        "name" : "lickitung", 
+        "number" : "108"
+    },
+    {
+        "display" : "Koffing", 
+        "name" : "koffing", 
+        "number" : "109"
+    },
+    {
+        "display" : "Weezing", 
+        "name" : "weezing", 
+        "number" : "110"
+    },
+    {
+        "display" : "Rhyhorn", 
+        "name" : "rhyhorn", 
+        "number" : "111"
+    },
+    {
+        "display" : "Rhydon", 
+        "name" : "rhydon", 
+        "number" : "112"
+    },
+    {
+        "display" : "Chansey", 
+        "name" : "chansey", 
+        "number" : "113"
+    },
+    {
+        "display" : "Tangela", 
+        "name" : "tangela", 
+        "number" : "114"
+    },
+    {
+        "display" : "Kangaskhan", 
+        "name" : "kangaskhan", 
+        "number" : "115"
+    },
+    {
+        "display" : "Horsea", 
+        "name" : "horsea", 
+        "number" : "116"
+    },
+    {
+        "display" : "Seadra", 
+        "name" : "seadra", 
+        "number" : "117"
+    },
+    {
+        "display" : "Goldeen", 
+        "name" : "goldeen", 
+        "number" : "118"
+    },
+    {
+        "display" : "Seaking", 
+        "name" : "seaking", 
+        "number" : "119"
+    },
+    {
+        "display" : "Staryu", 
+        "name" : "staryu", 
+        "number" : "120"
+    },
+    {
+        "display" : "Starmie", 
+        "name" : "starmie", 
+        "number" : "121"
+    },
+    {
+        "display" : "Mr. Mime", 
+        "name" : "mrmime", 
+        "number" : "122"
+    },
+    {
+        "display" : "Scyther", 
+        "name" : "scyther", 
+        "number" : "123"
+    },
+    {
+        "display" : "Jynx", 
+        "name" : "jynx", 
+        "number" : "124"
+    },
+    {
+        "display" : "Electabuzz", 
+        "name" : "electabuzz", 
+        "number" : "125"
+    },
+    {
+        "display" : "Magmar", 
+        "name" : "magmar", 
+        "number" : "126"
+    },
+    {
+        "display" : "Pinsir", 
+        "name" : "pinsir", 
+        "number" : "127"
+    },
+    {
+        "display" : "Tauros", 
+        "name" : "tauros", 
+        "number" : "128"
+    },
+    {
+        "display" : "Magikarp", 
+        "name" : "magikarp", 
+        "number" : "129"
+    },
+    {
+        "display" : "Gyarados", 
+        "name" : "gyarados", 
+        "number" : "130"
+    },
+    {
+        "display" : "Lapras", 
+        "name" : "lapras", 
+        "number" : "131"
+    },
+    {
+        "display" : "Ditto", 
+        "name" : "ditto", 
+        "number" : "132"
+    },
+    {
+        "display" : "Eevee", 
+        "name" : "eevee", 
+        "number" : "133"
+    },
+    {
+        "display" : "Vaporeon", 
+        "name" : "vaporeon", 
+        "number" : "134"
+    },
+    {
+        "display" : "Jolteon", 
+        "name" : "jolteon", 
+        "number" : "135"
+    },
+    {
+        "display" : "Flareon", 
+        "name" : "flareon", 
+        "number" : "136"
+    },
+    {
+        "display" : "Porygon", 
+        "name" : "porygon", 
+        "number" : "137"
+    },
+    {
+        "display" : "Omanyte", 
+        "name" : "omanyte", 
+        "number" : "138"
+    },
+    {
+        "display" : "Omastar", 
+        "name" : "omastar", 
+        "number" : "139"
+    },
+    {
+        "display" : "Kabuto", 
+        "name" : "kabuto", 
+        "number" : "140"
+    },
+    {
+        "display" : "Kabutops", 
+        "name" : "kabutops", 
+        "number" : "141"
+    },
+    {
+        "display" : "Aerodactyl", 
+        "name" : "aerodactyl", 
+        "number" : "142"
+    },
+    {
+        "display" : "Snorlax", 
+        "name" : "snorlax", 
+        "number" : "143"
+    },
+    {
+        "display" : "Articuno", 
+        "name" : "articuno", 
+        "number" : "144"
+    },
+    {
+        "display" : "Zapdos", 
+        "name" : "Zapdos", 
+        "number" : "145"
+    },
+    {
+        "display" : "Moltres", 
+        "name" : "moltres", 
+        "number" : "146"
+    },
+    {
+        "display" : "Dratini", 
+        "name" : "dratini", 
+        "number" : "147"
+    },
+    {
+        "display" : "Dragonair", 
+        "name" : "dragonair", 
+        "number" : "148"
+    },
+    {
+        "display" : "Dragonite", 
+        "name" : "dragonite", 
+        "number" : "149"
+    },
+    {
+        "display" : "Mewtwo", 
+        "name" : "mewtwo", 
+        "number" : "150"
+    },
+    {
+        "display" : "Mew", 
+        "name" : "mew", 
+        "number" : "151"
     }
 ]

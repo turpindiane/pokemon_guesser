@@ -257,7 +257,7 @@ const IndexPage = () => {
         value="New game"
         id="resetButton"
         onClick={resetPage}
-        className={Styles.button}
+        className={Styles.resetButton}
       />
       <br />
       <br />
