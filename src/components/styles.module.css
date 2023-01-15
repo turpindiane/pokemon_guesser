@@ -1,0 +1,76 @@
+.heading{
+    color: #b30000;
+}
+.description{
+    color: rgb(34, 34, 34);
+}
+.button {
+  background-color: white;
+  border: 2px solid;
+  border-radius: 15px;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  line-height: normal;
+  min-height: 80px;
+  padding: 16px 24px;
+  text-align: center;
+  font-size:calc(20px + 1.2vw);
+}
+.button-selected {
+    color: #fff;
+    cursor: pointer;
+    background-color: #b30000;
+    display: inline-block;
+    line-height: normal;
+    min-height: 80px;
+    padding: 16px 24px;
+    text-align: center;
+    font-size:calc(20px + 1.2vw);
+    border: 2px solid;
+    border-radius: 15px;
+}
+.quiz-question{
+    color: #b30000;
+    font-weight: bold;
+    width: 100%;
+    clear: both;
+}
+.pokemon-body{
+    clear: both;
+    color: rgb(34, 34, 34);
+    font-size:calc(20px + 3vw);
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.nav-link-item {
+    padding-right: 2rem;
+}
+.nav-link-text {
+    color: black;
+}
+.nav-image{
+    max-width: 50px;
+    max-height: 50px
+}
+.intructions{
+    color: rgb(34, 34, 34);
+    display: none;
+    font-size:calc(12px + 1vw);
+}
+.result{
+    color: rgb(34, 34, 34);
+    display: none;
+    font-size:calc(12px + 1.2vw);
+}
+.mistake-counter{
+    color: rgb(34, 34, 34);
+    font-size:calc(12px + 1vw);
+}
+.credit-text{
+    color: rgb(34, 34, 34);
+    font-size:calc(5px + 1vw);
+}

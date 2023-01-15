@@ -1,0 +1,112 @@
+[
+    {
+        "display" : "Bulbasaur",
+        "name" : "bulbasaur", 
+        "number" : "001"
+    },
+    {
+        "display" : "Ivysaur", 
+        "name" : "ivysaur", 
+        "number" : "002"
+    },
+    {
+        "display" : "Venusaur", 
+        "name" : "venusaur", 
+        "number" : "003"
+    },
+    {
+        "display" : "Charmander", 
+        "name" : "charmander", 
+        "number" : "004"
+    },
+    {
+        "display" : "Charmeleon", 
+        "name" : "charmeleon", 
+        "number" : "005"
+    },
+    {
+        "display" : "Charizard", 
+        "name" : "charizard", 
+        "number" : "006"
+    },
+    {
+        "display" : "Squirtle", 
+        "name" : "squirtle", 
+        "number" : "007"
+    },
+    {
+        "display" : "Wartortle", 
+        "name" : "wartortle", 
+        "number" : "008"
+    },
+    {
+        "display" : "Blastoise", 
+        "name" : "blastoise", 
+        "number" : "009"
+    },
+    {
+        "display" : "Caterpie", 
+        "name" : "caterpie", 
+        "number" : "010"
+    },
+    {
+        "display" : "Metapod", 
+        "name" : "metapod", 
+        "number" : "011"
+    },
+    {
+        "display" : "Butterfree", 
+        "name" : "butterfree", 
+        "number" : "012"
+    },
+    {
+        "display" : "Weedle", 
+        "name" : "weedle", 
+        "number" : "013"
+    },
+    {
+        "display" : "Kakuna", 
+        "name" : "kakuna", 
+        "number" : "014"
+    },
+    {
+        "display" : "Beedrill", 
+        "name" : "beedrill", 
+        "number" : "015"
+    },
+    {
+        "display" : "Pidgey", 
+        "name" : "pidgey", 
+        "number" : "016"
+    },
+    {
+        "display" : "Pidgeotto", 
+        "name" : "pidgeotto", 
+        "number" : "017"
+    },
+    {
+        "display" : "Pidgeot", 
+        "name" : "pidgeot", 
+        "number" : "018"
+    },
+    {
+        "display" : "Rattata", 
+        "name" : "rattata", 
+        "number" : "019"
+    },
+    {
+        "display" : "Raticate", 
+        "name" : "raticate", 
+        "number" : "020"
+    },
+    {
+        "display" : "Spearow", 
+        "name" : "spearow", 
+        "number" : "021"
+    },
+    {
+        "display" : "Fearow", 
+        "name" : "fearow", 
+        "number" : "022"
+    }
+]
